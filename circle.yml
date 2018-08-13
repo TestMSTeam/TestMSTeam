@@ -2,3 +2,4 @@ notify:
   webhooks:
     # A list of hook hashes, containing the URL field
     - url: https://outlook.office.com/webhook/452cf4ca-269b-482c-a5ca-16464abb1cda@72f988bf-86f1-41af-91ab-2d7cd011db47/CircleCI/1d84db7e7d1e47c698b95ad8fd40ba15/c7ad8673-fe69-4330-92b1-ff9f6f6b1f3f
+    - url: https://outlook.office.com/webhook/df48fd0c-c16f-4c20-8a74-ded0061512ee@494fbcb4-7874-413d-94ca-818342dff885/CircleCI/74a3a0dd0c284bcead04202a6d4edc5c/f1e05336-d01e-4e61-a4af-c17deebd0f2d
